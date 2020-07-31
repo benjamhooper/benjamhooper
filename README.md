@@ -1,7 +1,7 @@
 ### Hi there, I'm Ben - [website] 👋
 
 ## I'm a Husband, Developer, and Adventurer!
-- 🔭 I’m currently working on at [Kalos Inc][kalosinc]
+- 🔭 I’m currently working at [Kalos Inc][kalosinc]
 - 🌱 I’m currently learning everything DevOps
 - 👯 I’m looking to collaborate and learn [IAC][iac]
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -35,7 +35,7 @@
 
 <img align="left" alt="Benjamin Hooper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benjamhooper&show_icons=true&hide_border=true" />
 
-[website]: https://benhooper.org
+[website]: https://www.benhooper.org
 [linkedin]: https://linkedin.com/in/benjamhooper
 [kalosinc]: https://www.kalos-inc.com
 [iac]: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
