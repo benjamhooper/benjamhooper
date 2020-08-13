@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="Benjamin Hooper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benjamhooper&show_icons=true&hide_border=true" />
+<img align="left" alt="Benjamin Hooper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benjamhooper&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://www.benhooper.org
 [linkedin]: https://linkedin.com/in/benjamhooper
