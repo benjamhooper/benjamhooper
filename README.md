@@ -34,7 +34,6 @@
 ![ProfileViews](https://komarev.com/ghpvc/?username=benjamhooper)
 
 ---
----
 
 <img alt="Benjamin Hooper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamhooper&layout=compact&hide=html" />
 
