@@ -35,7 +35,7 @@
 
 ---
 
-<img alt="Benjamin Hooper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamhooper&layout=compact&hide=html" />
+<img alt="Benjamin Hooper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamhooper&layout=compact&hide=html&hide_border=true" />
 
 <img align="left" alt="Benjamin Hooper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benjamhooper&show_icons=true&hide_border=true&count_private=true" />
 
