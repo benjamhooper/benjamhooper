@@ -1,10 +1,10 @@
 ### Hi there, I'm Ben - [website] 👋
 
 ## I'm a Husband, Developer, and Adventurer!
-- 🔭 I’m currently working at [Kalos Inc][kalosinc]
+- 🔭 I’m currently working at [Fusion Health][fusionhealth]
 - 🌱 I’m currently learning everything DevOps
-- 👯 I’m looking to collaborate and learn [IAC][iac]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate and learn [Distributed Systems][ds]
+- 🥅 2021 Goals: Implement Distributed Systems and Microservices
 - ⚡ Fun fact: I've played the saxophone throughout the years
 
 ### Connect with me:
@@ -42,5 +42,5 @@
 
 [website]: https://www.benhooper.org
 [linkedin]: https://linkedin.com/in/benjamhooper
-[kalosinc]: https://www.kalos-inc.com
-[iac]: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
+[fusionhealth]: https://fusionehr.com/
+[ds]: https://www.confluent.io/learn/distributed-systems/
