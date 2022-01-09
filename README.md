@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Developer, and Adventurer!
 - 🔭 I’m currently working at [Fusion Health][fusionhealth]
-- 🌱 I’m currently learning everything DevOps
-- 👯 I’m looking to collaborate and learn [Distributed Systems][ds]
-- 🥅 2021 Goals: Implement Distributed Systems and Microservices
+- 🌱 I’m currently learning everything about Distributed Systems
+- 👯 I’m looking to collaborate and learn more about [Distributed Systems][ds]
+- 🥅 2022 Goals: Try out a new programming language and DevOps tooling
 - ⚡ Fun fact: I've played the saxophone throughout the years
 
 ### Connect with me:
