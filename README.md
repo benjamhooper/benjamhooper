@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Developer, and Adventurer!
 - 🔭 I’m currently working at [Fusion Health][fusionhealth]
-- 🌱 I’m currently learning everything about Distributed Systems
-- 👯 I’m looking to collaborate and learn more about [Distributed Systems][ds]
-- 🥅 2022 Goals: Try out a new programming language and DevOps tooling
+- 🌱 I’m currently learning everything about Observability and Monitoring
+- 👯 I’m looking to collaborate and learn more about [Observability and Monitoring][om]
+- 🥅 2023 Goals: Explore Observability platforms utilizing OpenTelemetry 
 - ⚡ Fun fact: I've played the saxophone throughout the years
 
 ### Connect with me:
@@ -43,4 +43,4 @@
 [website]: https://www.benhooper.org
 [linkedin]: https://linkedin.com/in/benjamhooper
 [fusionhealth]: https://fusionehr.com/
-[ds]: https://www.confluent.io/learn/distributed-systems/
+[om]: https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability#:~:text=Monitoring%20is%20based%20on%20gathering,patterns%20not%20defined%20in%20advance.
