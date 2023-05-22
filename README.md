@@ -1,7 +1,7 @@
 ### Hi there, I'm Ben - [website] 👋
 
 ## I'm a Husband, Developer, and Adventurer!
-- 🔭 I’m currently working at [Fusion Health][fusionhealth]
+- 🔭 I’m currently working at [Clear Measure][clearmeasure]
 - 🌱 I’m currently learning everything about Observability and Monitoring
 - 👯 I’m looking to collaborate and learn more about [Observability and Monitoring][om]
 - 🥅 2023 Goals: Explore Observability platforms utilizing OpenTelemetry 
@@ -42,5 +42,5 @@
 
 [website]: https://www.benhooper.org
 [linkedin]: https://linkedin.com/in/benjamhooper
-[fusionhealth]: https://fusionehr.com/
+[clearmeasure]: https://clearmeasure.com/
 [om]: https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability#:~:text=Monitoring%20is%20based%20on%20gathering,patterns%20not%20defined%20in%20advance.
