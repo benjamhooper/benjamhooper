@@ -2,9 +2,7 @@
 
 ## I'm a Husband, Developer, and Adventurer!
 - 🔭 I’m currently working at [Clear Measure][clearmeasure]
-- 🌱 I’m currently learning everything about Observability and Monitoring
-- 👯 I’m looking to collaborate and learn more about [Observability and Monitoring][om]
-- 🥅 2023 Goals: Explore Observability platforms utilizing OpenTelemetry 
+- 🥅 2025 Goals: Obtain AZ-104 Azure Administrator Associate Certification
 - ⚡ Fun fact: I've played the saxophone throughout the years
 
 ### Connect with me:
